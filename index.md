@@ -5,70 +5,56 @@ title: My Portfolio
 
 # Hi, I'm JayForge 👋
 
-Game developer focused on **Unity system-driven gameplay**, simulation, and management games, with **5 years of experience** as a software engineer building **scalable systems, backend applications, and distributed architectures.**
+Software Engineer with **5 years of professional experience** building backend systems, distributed applications, and scalable software.
 
-I work with **Unity (C#), Java, Python, and TypeScript**, applying backend engineering experience to build **robust gameplay systems and backend architectures**, including **microservices** and event-driven systems.
+Alongside my professional experience, I build **Unity** projects focused on gameplay systems, simulation mechanics, and management-style games. My work includes a **published Unity simulation game** and backend applications built with **Java**, **Spring Boot**, and **event-driven microservices**.
 
-I enjoy solving complex system problems—whether in **backend architecture, debugging distributed systems**, or designing **engaging gameplay loops and simulations**. My focus is on building **clean, maintainable, and scalable systems** across both software and game development domains.
+I enjoy solving technical problems, whether in backend architecture or gameplay systems, and building software that is **clean, maintainable, and scalable**.
 
-Currently open to:  
-- 🎮 Game Developer roles  
-- 🧪 QA / Game Testing roles  
-- 💻 Freelance Software Engineering work  
+Currently seeking opportunities in:
+- 💻 Software Engineering
+- ⚙️ Backend Engineering
+- 🎮 Unity Game Development
 
 ---
 
 ## 🔧 Skills & Technologies
 
-- **Game Development**: Unity, C#, Gameplay Systems, AI Navigation (NavMesh), Simulation Design
+- **Unity & Game Development**: Unity, C#, Gameplay Programming, AI Navigation (NavMesh), Simulation Design
 - **Backend & Systems**: Java, Spring Boot, Python, FastAPI, Flask, TypeScript  
 - **Databases**: PostgreSQL, MySQL, MongoDB  
-- **Messaging & Distributed Systems**: Kafka, RabbitMQ, Event-Driven Architecture  
+- **Messaging & Distributed Systems**: Apache Kafka, RabbitMQ, Event-Driven Architecture  
 - **DevOps & Tools**: Docker, Git, Jenkins  
 
 ---
 
 ## 🚀 Core Focus Areas
 
-- Designing scalable, event-driven backend systems  
-- Building reliable APIs and distributed workflows  
-- Developing system-driven gameplay and simulation mechanics  
+- Designing scalable, event-driven backend systems
+- Developing gameplay systems and simulation mechanics  
+- Building REST APIs and distributed systems  
 - Creating maintainable Unity architectures and gameplay loops  
 - Debugging, optimization, and root-cause problem solving  
-- Delivering production-ready features in remote and independent environments  
-
----
-
-## 🧠 Work Approach
-
-- **Systems-first mindset** - I focus on architecture, scalability, and long-term maintainability  
-- **Independent execution** - Comfortable owning features end-to-end in remote environments  
-- **Fast adaptation** - Quick to learn new tools, engines, and frameworks  
-- **Debug-driven development** - Strong focus on identifying and solving complex issues  
-- **Collaborative when needed** - Effective in both solo and team-based workflows  
+- Delivering production-ready features in collaborative and remote environments  
 
 ---
 
 ## 📂 Featured Projects
 
-### 🎮 Game Projects (Primary)
+### **[Cinema Rush](https://jayforge.itch.io/cinema-rush)**  
+  Unity-based idle/tycoon simulation game featuring customer AI, queue management, seating systems, progression mechanics, game economy, and save functionality.
 
-- **[Cinema Rush](https://jayforge.itch.io/cinema-rush)**  
-  Unity-based idle/tycoon simulation game featuring customer AI systems, queue management, seating logic, progression mechanics, and UI-driven gameplay flow.
-
-  👉 [Detailed Game Projects](/projects/games.md)
+  → [View all Game Projects](/projects/games.md)
 
 ---
 
-### 💻 Software Projects (Professional Background)
+### **[E-Commerce Microservices Platform](https://github.com/jayforge-dev/e-commerce-microservices)**  
+  Event-driven e-commerce platform built with Java, Spring Boot, Apache Kafka, and the Outbox pattern, implementing modern microservices architecture and distributed transaction handling.
 
-- **[E-Commerce Microservices Platform](https://github.com/jayforge-dev/e-commerce-microservices)**  
-  Event-driven microservices architecture using Kafka, Outbox pattern, and distributed transaction handling.
+### **[Task Manager API](https://github.com/jayforge-dev/flask-auth-crud)**  
+  RESTful task management API built with Flask featuring JWT authentication and CRUD operations.
 
-- **[Task Manager API](https://github.com/jayforge-dev/flask-auth-crud)**  
-  Flask-based backend system with JWT authentication and CRUD task workflows.
-
-  👉 [Detailed Software Projects](/projects/software.md)
+  → [View all Software Projects](/projects/software.md)
 
 ---
 
@@ -76,5 +62,5 @@ Currently open to:
 
 - **GitHub:** [JayForge](https://github.com/jayforge-dev)  
 - **itch.io:** [JayForge](https://jayforge.itch.io)
-- **LinkedIn:** [Jay](https://linkedin.com/in/jayforge)
+- **LinkedIn:** [JayForge](https://linkedin.com/in/jayforge)
 - **Email:** [jayforge.dev@outlook.com](mailto:jayforge.dev@outlook.com)
