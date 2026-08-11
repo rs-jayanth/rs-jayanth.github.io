@@ -5,7 +5,7 @@ title: My Portfolio
 
 # Hi, I'm JayForge 👋
 
-Software Engineer with **5 years of professional experience** building backend systems, distributed applications, and scalable software.
+Software Engineer with **4+ years of professional experience** building backend systems, distributed applications, and scalable software.
 
 Alongside my professional experience, I build **Unity** projects focused on gameplay systems, simulation mechanics, and management-style games. My work includes a **published Unity simulation game** and backend applications built with **Java**, **Spring Boot**, and **event-driven microservices**.
 
